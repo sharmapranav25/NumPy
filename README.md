@@ -26,6 +26,7 @@ output
    
       ((5,), (5,))
       
+      
 # Multi-Dimentional arrays 
     TwoD_Arr= np.array([num_list,alpha_list])
     print(TwoD_Arr)
